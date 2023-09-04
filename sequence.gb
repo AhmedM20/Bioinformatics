@@ -1,0 +1,91 @@
+LOCUS       AB082923                2451 bp    mRNA    linear   PRI 01-APR-2003
+DEFINITION  Homo sapiens mRNA for P53, complete cds.
+ACCESSION   AB082923
+VERSION     AB082923.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Azuma,K., Shichijo,S., Maeda,Y., Nakatsura,T., Nonaka,Y., Fujii,T.,
+            Koike,K. and Itoh,K.
+  TITLE     Mutated p53 gene encodes a nonmutated epitope recognized by
+            HLA-B*4601-restricted and tumor cell-reactive CTLs at tumor site
+  JOURNAL   Cancer Res. 63 (4), 854-858 (2003)
+   PUBMED   12591737
+REFERENCE   2  (bases 1 to 2451)
+  AUTHORS   Shichijo,S. and Itoh,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAR-2002) Shigeki Shichijo, Kurume Univ. School of
+            Med., Dep. Immunol.; 67-Asahi-machi, Kurume, Fukuoka 830-0011,
+            Japan (E-mail:shichijo@med.kurume-u.ac.jp, Tel:81-942-31-7551,
+            Fax:81-942-31-7699)
+FEATURES             Location/Qualifiers
+     source          1..2451
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="7F"
+                     /cell_line="SW620"
+                     /cell_type="colon cancer"
+     gene            1..2451
+                     /gene="p53"
+     CDS             64..1245
+                     /gene="p53"
+                     /codon_start=1
+                     /product="P53"
+                     /protein_id="BAC16799.1"
+                     /translation="MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPLPSQAMDDLM
+                     LSPDDIEQWFTEDPGPDEAPRMPEAAPRVAPAPAAPTPAAPAPAPSWPLSSSVPSQKT
+                     YQGSYGFRLGFLHSGTAKSVTCTYSPALNKMFCQLAKTCPVQLWVDSTPPPGTRVRAM
+                     AIYKQSQHMTEVVRRCPHHERCSDSDGLAPPQHLIRVEGNLRVEYLDDRNTFRHSVVV
+                     PYEPPEVGSDCTTIHYNYMCNSSCMGGMNRRPILTIITLEDSSGNLLGRNSFEVHVCA
+                     CPGRDRRTEEENLRKKGEPHHELPPGSTKRALSNNTSSSPQPKKKPLDGEYFTLQIRG
+                     RERFEMFRELNEALELKDAQAGKEPGGSRAHSSHLKSKKGQSTSRHKKLMFKTEGPDS
+                     D"
+ORIGIN      
+        1 cgtgctttcc acgacggtga cacgcttccc tggattggcc agactgcctt ccgggtcact
+       61 gccatggagg agccgcagtc agatcctagc gtcgagcccc ctctgagtca ggaaacattt
+      121 tcagacctat ggaaactact tcctgaaaac aacgttctgt cccccttgcc gtcccaagca
+      181 atggatgatt tgatgctgtc cccggacgat attgaacaat ggttcactga agacccaggt
+      241 ccagatgaag ctcccagaat gccagaggct gctccccgcg tggcccctgc accagcagct
+      301 cctacaccgg cggcccctgc accagccccc tcctggcccc tgtcatcttc tgtcccttcc
+      361 cagaaaacct accagggcag ctacggtttc cgtctgggct tcttgcattc tgggacagcc
+      421 aagtctgtga cttgcacgta ctcccctgcc ctcaacaaga tgttttgcca actggccaag
+      481 acctgccctg tgcagctgtg ggttgattcc acacccccgc ccggcacccg cgtccgcgcc
+      541 atggccatct acaagcagtc acagcacatg acggaggttg tgaggcgctg cccccaccat
+      601 gagcgctgct cagatagcga tggtctggcc cctcctcagc atcttatccg agtggaagga
+      661 aatttgcgtg tggagtattt ggatgacaga aacacttttc gacatagtgt ggtggtgccc
+      721 tatgagccgc ctgaggttgg ctctgactgt accaccatcc actacaacta catgtgtaac
+      781 agttcctgca tgggcggcat gaaccggagg cccatcctca ccatcatcac actggaagac
+      841 tccagtggta atctactggg acggaacagc tttgaggtgc atgtttgtgc ctgtcctggg
+      901 agagaccggc gcacagagga agagaatctc cgcaagaaag gggagcctca ccacgagctg
+      961 cccccaggga gcactaagcg agcactgtcc aacaacacca gctcctctcc ccagccaaag
+     1021 aagaaaccac tggatggaga atatttcacc cttcagatcc gtgggcgtga gcgcttcgag
+     1081 atgttccgag agctgaatga ggccttggaa ctcaaggatg cccaggctgg gaaggagcca
+     1141 ggggggagca gggctcactc cagccacctg aagtccaaaa agggtcagtc tacctcccgc
+     1201 cataaaaaac tcatgttcaa gacagaaggg cctgactcag actgacattc tccacttctt
+     1261 gttccccact gacagcctcc cacccccatc tctccctccc ctgccatttt gggttttggg
+     1321 tctttgaacc cttgcttgca ataggtgtgc gtcagaagca cccaggactt ccatttgctt
+     1381 tgtcccgggg ctccactgaa caagttggcc tgcactggtg ttttgttgtg gggaggagga
+     1441 tggggagtag gacataccag cttagatttt aaggttttta ctgtgaggga tgtttgggag
+     1501 atgtaagaaa tgttcttgca gttaagggtt agtttacaat cagccacatt ctaggtaggg
+     1561 gcccacttca ccgtactaac cagggaagct gtccctcact gttgaatttt ctctaacttc
+     1621 aaggcccata tctgtgaaat gctggcattt gcacctacct cacagagtgc attgtgaggg
+     1681 ttaatgaaat aatgtacatc tggccttgaa accacctttt attacatggg gtctagaact
+     1741 tgaccccctt gagggtgctt gttccctctc cctgttggtc ggtgggttgg tagtttctac
+     1801 agttgggcag ctggttaggt agagggagtt gtcaagtctc tgctggccca gccaaaccct
+     1861 gtctgacaac ctcttggtga accttagtac ctaaaaggaa atctcacccc atcccacacc
+     1921 ctggaggatt tcatctcttg tatatgatga tctggatcca ccaagacttg ttttatgctc
+     1981 agggtcaatt tcttttttct tttttttttt ttttttcttt ttctttgaga ctgggtctcg
+     2041 ctttgttgcc caggctggag tggagtggcg tgatcttggc ttactgcagc ctttgcctcc
+     2101 ccggctcgag cagtcctgcc tcagcctccg gagtagctgg gaccacaggt tcatgccacc
+     2161 atggccagcc aacttttgca tgttttgtag agatggggtc tcacagtgtt gcccaggctg
+     2221 gtctcaaact cctgggctca ggcgatccac ctgtctcagc ctcccagagt gctgggatta
+     2281 caattgtgag ccaccacgtc cagctggaag ggtcaacatc ttttacattc tgcaagcaca
+     2341 tctgcatttt caccccaccc ttcccctcct tctccctttt tatatcccat ttttatatcg
+     2401 atctcttatt ttacaataaa actttgctgc caaaaaaaaa aaaaaaaaaa a
+//
+
